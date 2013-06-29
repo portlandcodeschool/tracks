@@ -133,24 +133,24 @@ Points:
 * Understand authorization vs authentication
 * Be able to CRUD a model through the controller without a scaffold
 
-* 4\. All standards are followed. Should include additional aspects such as
-* 3\. Most standards are followed.
-* 2\. Standards are attempted.
+* 4\. All standards are followed. Should include additional aspects such as using CanCan or another authorization scheme, full test suite, masquerading as another user, multiple roles, or something else extraordinary.
+* 3\. Most standards are followed. Authorization is working and users are not able to see other users' data. Some testing is present.
+* 2\. Standards are attempted. Authorization is working but the code may be confused or subtly incorrect. Some testing is present.
 
 ### Section 11
 
 * Memorize the steps to create a relationship between two models
 * Understand what a `join` is in SQL
 
-* 4\. All standards are followed. Should include additional aspects such as
-* 3\. Most standards are followed.
-* 2\. Standards are attempted.
+* 4\. All standards are followed. Should include additional aspects such as use of hmt or habtm, multiple relationships, correct use of associated model methods, nested_attributes, `*_ids`, or something else extraordinary.
+* 3\. Most standards are followed. At least two models are joined and end-user is able to affect related objects. Forms are correct but may not have the best user experience.
+* 2\. Standards are attempted. Able to connect two models and affect them through the console but may not have the forms completed.
 
 ### Section 12
 
 * Be able to respond to js requests from controllers
 * Memorize the common functions from the ActiveRecord Query Interface
 
-* 4\. All standards are followed. Should include additional aspects such as
-* 3\. Most standards are followed.
-* 2\. Standards are attempted.
+* 4\. All standards are followed. Should include additional aspects such as Serializers for json output, JSONP support, complex JS interactions, small JSMVC-like behaviors, Jasmine/Mocha tests, or something else extraordinary.
+* 3\. Most standards are followed. Able to respond to json and js requests from the controller and affect the page. Thorough understanding of the AQI and the methods added by relationships.
+* 2\. Standards are attempted. Able to respond to json or js but no examples of it being used for something useful or interesting. Some understanding of the AQI.
