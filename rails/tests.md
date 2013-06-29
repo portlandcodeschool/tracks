@@ -1,5 +1,11 @@
 # Test rubrics for the various goals
 
+This file is designed to give you an idea how I will quiz you, but also how you can help others in the class or the community to tell whether they really have grasped a concept.
+
+In particular, please read "How we will test", "Standards", and "General guidelines". Please do know that while many will try to get 4's on their exams, few will actually achieve that with any consistency. A 3 is a great score, and a 2 is acceptable. I would like to see most people with a bevy of 3's and a couple 4's and 2's.
+
+If you have ideas of "something else extraordinary" that we could put in the 4 point sections please submit a pull request. This will help others in the community to further their skills as well.
+
 ## How we will test
 
 Rather than require you all to go at the same pace we will separate this track into sections which will be tested at whatever pace you desire. You will also work with your group and have a separate time to show off your work and get review.

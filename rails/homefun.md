@@ -1,5 +1,7 @@
 # Homework for this trail
 
+This file is designed to help you find readings for the topic of the day. If you're ahead of others in the class please edit this file with any resources you found helpful. This will help others in the community to further their skills as well.
+
 ## Chunk 1
 
 1\. Be able to create sinatra projects from scratch in under 3 minutes

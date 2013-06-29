@@ -1,5 +1,7 @@
 # Essential goals in order
 
+This file is a compressed version of the goals which is designed to be referenced quickly for printing.
+
 ## Chunk 1
 
 * 1\. Be able to create sinatra projects from scratch
