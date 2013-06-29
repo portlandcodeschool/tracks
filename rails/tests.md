@@ -2,13 +2,19 @@
 
 ## How we will test
 
-Tests will be administered on any day Monday..Thursday during either the morning or before 3pm in the afternoon. Project demos will take about 30 minutes while the individual time trial sections will only take about 10 min per person. These can be arranged by putting your name on the sign-up sheet.
+Rather than require you all to go at the same pace we will separate this track into sections which will be tested at whatever pace you desire. You will also work with your group and have a separate time to show off your work and get review.
+
+There are 3 chunks comprised of 4 sections each. If you did one section each day you would finish in 3 weeks. Most will do one test every other day and a group test once every other week.
 
 ### Project demo
+
+Group tests will be administered on any day Monday..Thursday during either the morning or before 3pm in the afternoon. Project demos will take about 30 minutes. This test is a demonstration of an entire chunk of goals (4 sections). These can be arranged by putting your group's names on the signup sheet. Bring something to take notes.
 
 Groups will present a demo of a small project they are creating. Demos should be 10-20 minutes in length and should be recorded by the presenters. Groups can be any size. The project presented should **not** be the same as the project in the Hartl book. Code should be uploaded to Github and will be reviewed after the presentation.
 
 ### Time trials
+
+The individual time trials will only cover one section at a time and will take about 10 min per person. These can be arranged by putting your name on the sign-up sheet for the day.
 
 Exams for each section will be 6 minutes long. The first 3 minutes will be spent on a time trial, while the second 3 minutes will be spent showing off your work on the project.
 
@@ -118,9 +124,9 @@ Points:
 * Be able to use authentication
 * Be able to use helper functions in views
 
-* 4\. All standards are followed. Should include additional aspects such as
-* 3\. Most standards are followed.
-* 2\. Standards are attempted.
+* 4\. All standards are followed. Should include additional aspects such as using OmniAuth or Devise to hook into an OAuth provider such as Github, a full capybara test suite, or something else extraordinary.
+* 3\. Most standards are followed. Authentication is working correctly and the user model is written to the database. Sessions are being used correctly. Unit tests are present and correct but a whole capybara suite may not be present.
+* 2\. Standards are attempted. Authentication is working but tests are missing or there is no evidence of using helpers.
 
 ### Section 10
 
