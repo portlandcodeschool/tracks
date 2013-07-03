@@ -71,7 +71,7 @@ Points:
 ### Section 3
 
 * Be able to use scaffold generators
-* Be able to use migrations to change the database
+* Be able to create migrations to change the generated table from the scaffold
 
 * 4\. All standards are followed. Should include additional aspects such as `respond_with`, tests, some model logic, or something else extraordinary. Project is up on heroku.
 * 3\. Most standards are followed. Project is to spec but nothing special is present. Project is up on heroku.
