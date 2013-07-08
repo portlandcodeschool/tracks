@@ -64,6 +64,8 @@ Points:
 * Be able to create Rails projects quickly
 * Be able to deploy to heroku
 
+Points:
+
 * 4\. All standards are followed. Should include additional aspects such as bootstrap, extra documentation, logic in /lib, or something else extraordinary.
 * 3\. Most standards are followed. Rails project is interesting but there is little attempt to go farther.
 * 2\. Standards are attempted. Rails project is created and deployed to heroku. Loads in a browser but is very basic or unattractive.
@@ -73,6 +75,8 @@ Points:
 * Be able to use scaffold generators
 * Be able to create migrations to change the generated table from the scaffold
 
+Points:
+
 * 4\. All standards are followed. Should include additional aspects such as `respond_with`, tests, some model logic, or something else extraordinary. Project is up on heroku.
 * 3\. Most standards are followed. Project is to spec but nothing special is present. Project is up on heroku.
 * 2\. Standards are attempted. Project is up on heroku.
@@ -81,6 +85,8 @@ Points:
 
 * Be able to create static controllers in Rails
 * Be able to write tests in rspec
+
+Points:
 
 * 4\. All standards are followed. Should include additional aspects such as capybara, model specs, or something else extraordinary.
 * 3\. Most standards are followed. Project includes extensive tests.
@@ -92,6 +98,8 @@ Points:
 
 * Memorize the Ruby idioms that we use in Rails
 
+Points:
+
 * 4\. All standards are followed. Should include additional aspects such as more complicated flash cards, examples of idioms being used in real rails projects, flash cards from other open source projects or from the style-guide, or something else extraordinary.
 * 3\. Most standards are followed. Student shows at least 20 flash cards with advanced topics that may have come from the style-guide or some other open source project. Simple ruby project is created showing off some idioms.
 * 2\. Standards are attempted. Student shows at least 20 flash cards. Simple ruby project is created showing off some idioms.
@@ -100,6 +108,8 @@ Points:
 
 * Be able to use bootstrap with Rails
 * Be able to write CSS in SCSS
+
+Points:
 
 * 4\. All standards are followed. Should include additional aspects such as exploring another css framework, using the asset pipeline for compression, using coffeescript, using haml, using gems to pull in asset collections and installing them correctly, or something else extraordinary.
 * 3\. Most standards are followed. Uses the correct bootstrap gem, updates the layout and can use the scaffold generator to created themed models.
@@ -110,6 +120,8 @@ Points:
 * Be able to create and edit migrations
 * Be able to CRUD a model and see its attributes in the database
 
+Points:
+
 * 4\. All standards are followed. Should include additional aspects such as knowledge of correct AQI methods, use of rake tasks that include models, postgres, a NoSQL database, or something else extraordinary.
 * 3\. Most standards are followed. Should be able to explain what's happening, and some basics about SQL such as indexing or joining. Might include some scopes or defaults.
 * 2\. Standards are attempted. Project contains migrations and student can use AQI to access models but may not be using anything fancy.
@@ -118,6 +130,8 @@ Points:
 
 * Be able to create forms using Rails
 * Be able to show validation messages in forms
+
+Points:
 
 * 4\. All standards are followed. Should include additional aspects such as using other form builders like SimpleForm, generating forms automatically with bootstrap styles, using lambdas for validation.
 * 3\. Most standards are followed. Able to create forms and show validation messages.
@@ -130,6 +144,8 @@ Points:
 * Be able to use authentication
 * Be able to use helper functions in views
 
+Points:
+
 * 4\. All standards are followed. Should include additional aspects such as using OmniAuth or Devise to hook into an OAuth provider such as Github, a full capybara test suite, or something else extraordinary.
 * 3\. Most standards are followed. Authentication is working correctly and the user model is written to the database. Sessions are being used correctly. Unit tests are present and correct but a whole capybara suite may not be present.
 * 2\. Standards are attempted. Authentication is working but tests are missing or there is no evidence of using helpers.
@@ -138,6 +154,8 @@ Points:
 
 * Understand authorization vs authentication
 * Be able to CRUD a model through the controller without a scaffold
+
+Points:
 
 * 4\. All standards are followed. Should include additional aspects such as using CanCan or another authorization scheme, full test suite, masquerading as another user, multiple roles, or something else extraordinary.
 * 3\. Most standards are followed. Authorization is working and users are not able to see other users' data. Some testing is present.
@@ -148,6 +166,8 @@ Points:
 * Memorize the steps to create a relationship between two models
 * Understand what a `join` is in SQL
 
+Points:
+
 * 4\. All standards are followed. Should include additional aspects such as use of hmt or habtm, multiple relationships, correct use of associated model methods, nested_attributes, `*_ids`, or something else extraordinary.
 * 3\. Most standards are followed. At least two models are joined and end-user is able to affect related objects. Forms are correct but may not have the best user experience.
 * 2\. Standards are attempted. Able to connect two models and affect them through the console but may not have the forms completed.
@@ -156,6 +176,8 @@ Points:
 
 * Be able to respond to js requests from controllers
 * Memorize the common functions from the ActiveRecord Query Interface
+
+Points:
 
 * 4\. All standards are followed. Should include additional aspects such as Serializers for json output, JSONP support, complex JS interactions, small JSMVC-like behaviors, Jasmine/Mocha tests, or something else extraordinary.
 * 3\. Most standards are followed. Able to respond to json and js requests from the controller and affect the page. Thorough understanding of the AQI and the methods added by relationships.
