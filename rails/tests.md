@@ -74,6 +74,13 @@ Points:
 
 * Be able to use scaffold generators
 * Be able to create migrations to change the generated table from the scaffold
+ 
+Test:
+
+* Create a User scaffold with a name and an email
+* Run the database migrations
+* Create a new migration that adds an age column which is an Integer
+* Rerun the migrations
 
 Points:
 
