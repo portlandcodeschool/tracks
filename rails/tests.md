@@ -96,7 +96,7 @@ Points:
 
 ### Section 5
 
-* Memorize the Ruby idioms that we use in Rails
+* No test here.
 
 Points:
 
