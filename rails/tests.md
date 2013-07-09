@@ -77,10 +77,9 @@ Points:
  
 Test:
 
-* Create a User scaffold with a name and an email
+* Create a User scaffold with a name and an email and a Micropost scaffold with content and user_id which is an integer
 * Run the database migrations
-* Create a new migration that adds an age column which is an Integer
-* Rerun the migrations
+* Link the two models with `has_many` and `belongs_to`.
 
 Points:
 
