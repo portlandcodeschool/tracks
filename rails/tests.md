@@ -48,7 +48,7 @@ We are working to become professional programmers. As such, the following is the
 
 ## Chunk 1
 
-### Section 1
+### Section 0
 
 * Be able to create sinatra projects from scratch
 * Be able to use ERb and template interpolation in Sinatra
@@ -59,7 +59,7 @@ Points:
 * 3\. Most standards are followed. Project created including all necessary files. ERb template is rendered correctly with instance variables in the right place.
 * 2\. Standards are attempted. Project created and loads in the browser.
 
-### Section 2
+### Section 1
 
 * Be able to create Rails projects quickly
 * Be able to deploy to heroku
@@ -70,7 +70,7 @@ Points:
 * 3\. Most standards are followed. Rails project is interesting but there is little attempt to go farther.
 * 2\. Standards are attempted. Rails project is created and deployed to heroku. Loads in a browser but is very basic or unattractive.
 
-### Section 3
+### Section 2
 
 * Be able to use scaffold generators
 * Be able to create migrations to change the generated table from the scaffold
@@ -81,7 +81,7 @@ Points:
 * 3\. Most standards are followed. Project is to spec but nothing special is present. Project is up on heroku.
 * 2\. Standards are attempted. Project is up on heroku.
 
-### Section 4
+### Section 3
 
 * Be able to create static controllers in Rails
 * Be able to write tests in rspec
@@ -94,7 +94,7 @@ Points:
 
 ## Chunk 2
 
-### Section 5
+### Section 4
 
 * No test here.
 
@@ -104,7 +104,7 @@ Points:
 * 3\. Most standards are followed. Student shows at least 20 flash cards with advanced topics that may have come from the style-guide or some other open source project. Simple ruby project is created showing off some idioms.
 * 2\. Standards are attempted. Student shows at least 20 flash cards. Simple ruby project is created showing off some idioms.
 
-### Section 6
+### Section 5
 
 * Be able to use bootstrap with Rails
 * Be able to write CSS in SCSS
@@ -115,7 +115,7 @@ Points:
 * 3\. Most standards are followed. Uses the correct bootstrap gem, updates the layout and can use the scaffold generator to created themed models.
 * 2\. Standards are attempted. Bootstrap is included in the public folder or an assets folder. Student uses SCSS.
 
-### Section 7
+### Section 6
 
 * Be able to create and edit migrations
 * Be able to CRUD a model and see its attributes in the database
@@ -126,7 +126,7 @@ Points:
 * 3\. Most standards are followed. Should be able to explain what's happening, and some basics about SQL such as indexing or joining. Might include some scopes or defaults.
 * 2\. Standards are attempted. Project contains migrations and student can use AQI to access models but may not be using anything fancy.
 
-### Section 8
+### Section 7
 
 * Be able to create forms using Rails
 * Be able to show validation messages in forms
@@ -139,7 +139,7 @@ Points:
 
 ## Chunk 3
 
-### Section 9
+### Section 8
 
 * Be able to use authentication
 * Be able to use helper functions in views
@@ -150,7 +150,7 @@ Points:
 * 3\. Most standards are followed. Authentication is working correctly and the user model is written to the database. Sessions are being used correctly. Unit tests are present and correct but a whole capybara suite may not be present.
 * 2\. Standards are attempted. Authentication is working but tests are missing or there is no evidence of using helpers.
 
-### Section 10
+### Section 9
 
 * Understand authorization vs authentication
 * Be able to CRUD a model through the controller without a scaffold
@@ -161,7 +161,7 @@ Points:
 * 3\. Most standards are followed. Authorization is working and users are not able to see other users' data. Some testing is present.
 * 2\. Standards are attempted. Authorization is working but the code may be confused or subtly incorrect. Some testing is present.
 
-### Section 11
+### Section 10
 
 * Memorize the steps to create a relationship between two models
 * Understand what a `join` is in SQL
@@ -172,7 +172,7 @@ Points:
 * 3\. Most standards are followed. At least two models are joined and end-user is able to affect related objects. Forms are correct but may not have the best user experience.
 * 2\. Standards are attempted. Able to connect two models and affect them through the console but may not have the forms completed.
 
-### Section 12
+### Section 11
 
 * Be able to respond to js requests from controllers
 * Memorize the common functions from the ActiveRecord Query Interface
