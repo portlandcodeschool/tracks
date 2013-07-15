@@ -121,6 +121,11 @@ Points:
 * Be able to use bootstrap with Rails
 * Be able to write CSS in SCSS
 
+Test:
+
+* Install the `bootstrap-sass` gem and add the necessary html to the layout to load the default container.
+* Create a new rule in the users.scss.css that makes the `.container` background green
+
 Points:
 
 * 4\. All standards are followed. Should include additional aspects such as exploring another css framework, using the asset pipeline for compression, using coffeescript, using haml, using gems to pull in asset collections and installing them correctly, or something else extraordinary.
