@@ -92,6 +92,11 @@ Points:
 * Be able to create static controllers in Rails
 * Be able to write tests in rspec
 
+Test:
+
+* Create a static controller from the command line with the actions "about" and "contact"
+* Create a user model with an email column, add a presence validation, and a test that proves that there are errors if the email is missing.
+
 Points:
 
 * 4\. All standards are followed. Should include additional aspects such as capybara, model specs, or something else extraordinary.
