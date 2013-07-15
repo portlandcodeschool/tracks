@@ -95,7 +95,7 @@ Points:
 Test:
 
 * Create a static controller from the command line with the actions "about" and "contact"
-* Create a user model with an email column, add a presence validation, and a test that proves that there are errors if the email is missing.
+* Add a presence validation to the email column on the User model and a test that proves that there are errors if the email is missing.
 
 Points:
 
