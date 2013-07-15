@@ -96,7 +96,7 @@ Test (6min):
 
 * Create a static controller from the command line with the actions "about" and "contact"
 * Add a presence validation to the name column on the User model. 
-* Add a test that proves that there are errors if the name is missing.
+* Add a test that proves that there are errors if the name is missing. (use `@user.valid?` or `@user.errors.empty?`
 
 Points:
 
