@@ -138,6 +138,13 @@ Points:
 * Be able to create and edit migrations
 * Be able to CRUD a model and see its attributes in the database
 
+Test:
+
+* Create a new User object from the rails console
+* Add a migration to user that adds an age:integer column with a default of NULL
+* Migrate the database
+* Find the newly created User object through the console, update the age, and save.
+
 Points:
 
 * 4\. All standards are followed. Should include additional aspects such as knowledge of correct AQI methods, use of rake tasks that include models, postgres, a NoSQL database, or something else extraordinary.
