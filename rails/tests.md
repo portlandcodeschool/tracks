@@ -141,7 +141,7 @@ Points:
 Test:
 
 * Create a new User object from the rails console
-* Add a migration to user that adds an age:integer column with a default of NULL
+* Add a migration to user that adds an age:integer column
 * Migrate the database
 * Find the newly created User object through the console, update the age, and save.
 
