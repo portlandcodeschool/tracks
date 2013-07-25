@@ -124,7 +124,7 @@ Points:
 
 Test:
 
-* Install the `bootstrap-sass` gem and add the necessary html to the layout to load the default container.
+* Install the `bootstrap-sass` gem or the `twitter-bootstrap-rails` gem and add the necessary html to the layout to load the default container.
 * Create a new rule in the users.scss.css that makes the `.container` background green
 
 Points:
