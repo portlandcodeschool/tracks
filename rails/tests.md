@@ -156,6 +156,14 @@ Points:
 * Be able to create forms using Rails
 * Be able to show validation messages in forms
 
+Test:
+
+* Notes are okay here
+* Create a new form for the `User#create` action
+* Add in the error output parts of the form
+* Add a validation on user name
+* Show that when submitting an invalid name, the errors are displayed
+
 Points:
 
 * 4\. All standards are followed. Should include additional aspects such as using other form builders like SimpleForm, generating forms automatically with bootstrap styles, using lambdas for validation.
